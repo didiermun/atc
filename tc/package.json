@@ -1,0 +1,14 @@
+{
+  "name": "tc",
+  "version": "1.0.0",
+  "description": "Text Censoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Didien",
+  "license": "ISC",
+  "dependencies": {
+    "censoring": "^1.0.1"
+  }
+}

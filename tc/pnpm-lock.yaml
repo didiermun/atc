@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  censoring: ^1.0.1
+
+dependencies:
+  censoring: 1.0.1
+
+packages:
+
+  /censoring/1.0.1:
+    resolution: {integrity: sha1-rCDI6q4CdobkWVUS+kA+Knw7jG4=}
+    dev: false

@@ -1,3 +1,4 @@
-node_modules
+ac/node_modules
+tc/node_modules
 .DS_Store
 .env

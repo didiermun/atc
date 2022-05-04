@@ -1,22 +1,30 @@
-# Censor Profanity with Node.js
-
-This is a barebones project which automatically censors audio based on transcripts from [Deepgram](http://deepgram.com)'s AI Speech Recognition API.
+# Censoring with Node.js
 
 ## Setup
 
 ```
-git clone https://github.com/didiermun/ca.git
-cd ca
-npm install
+git clone https://github.com/didiermun/censoring.git
+cd censoring
 ```
 
+### Audio Censoring
+```
+cd ac
+npm install
+```
 Set your `DG_KEY` environment variable or replace `process.env.DG_KEY` with your key.
 You can also create `.env` file in root folder. Then add `DG_KEY=<YOUR_API_KEY>`.
-
-## Usage
-
-Replace the filename on line 11 and run with:
 
 ```
 node index.js
 ```
+
+### Text Censoring
+
+```
+cd tc
+npm install
+node index.js
+```
+
+That is a censor!
