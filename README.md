@@ -5,8 +5,8 @@ This is a barebones project which automatically censors audio based on transcrip
 ## Setup
 
 ```
-git clone https://github.com/deepgram-devs/censor-audio.git
-cd censor-audio
+git clone https://github.com/didiermun/ca.git
+cd ca
 npm install
 ```
 
