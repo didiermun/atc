@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@deepgram/sdk": "^1.0.2",
-    "ffmpeg-static": "^4.4.0",
+    "ffmpeg-static": "^5.0.0",
     "profane-words": "^1.4.0",
     "dotenv": "^16.0.0"
   }
